@@ -11,16 +11,16 @@ public class DesignPatternApplication {
         //Creational patterns start
 
         // Demonstrates Factory pattern
-//        FactoryClient.runFactoryMethod();
-//
-//        // Demonstrates Singleton pattern
-//        SingletonClient.runSingleTonMethod();
-//
-//        // Demonstrates Abstract Factory pattern
-//        AbstractFactoryClient.runAbstractFactoryMethod();
-//
-//        // Demonstrates Builder pattern
-//        BuilderClient.runBuilderMethod();
+        FactoryClient.runFactoryMethod();
+
+        // Demonstrates Singleton pattern
+        SingletonClient.runSingleTonMethod();
+
+        // Demonstrates Abstract Factory pattern
+        AbstractFactoryClient.runAbstractFactoryMethod();
+
+        // Demonstrates Builder pattern
+        BuilderClient.runBuilderMethod();
 
         //Creational patterns end
 
